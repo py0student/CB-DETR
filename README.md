@@ -1,6 +1,4 @@
-# CB-DETR
-CB-DETR for Small Object Detection in UAV Aerial Imagery
-# CB-DETR
+### CB-DETR
 
 > **CB-DETR for Small Object Detection in UAV Aerial Imagery**
 > 
