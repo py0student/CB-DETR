@@ -17,6 +17,19 @@ Visdrone2019:
 TinyPerson:
 [TinyBenchmark (WACV 2020)](https://github.com/sxy1122/TinyBenchmark): Scale Match for Tiny Person Detection (WACV 2020).
 
+### Ablation Studies on VisDrone2019
+
+The values are reported in percentage (%).
+
+| Method | Params(M) | GFLOPs(G) | FPS | mAP50 | mAP50-95 | Precision | Recall |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Baseline | 19.88 | 57.0 | 83.3 | 46.5 | 28.4 | 60.7 | 45.2 |
+| +SNI-r | 20.02 | 58.0 | 76.9 | 46.8 | 28.5 | 61.3 | 45.7 |
+| +GSConvE | 19.59 | 56.4 | 84.0 | 46.7 | 28.4 | 61.3 | 44.9 |
+| +BRFPN | 19.72 | 57.4 | 87.0 | 47.1 | 28.9 | 61.4 | 45.6 |
+| +CIGLA | 15.22 | 51.0 | 86.2 | 48.4 | 29.6 | 61.3 | 46.7 |
+| **+CIGLA+BRFPN** | **15.06** | **51.5** | **87.7** | **48.7** | **29.8** | **61.1** | **47.7** |
+
 ## Get Started
 
 环境配置步骤
