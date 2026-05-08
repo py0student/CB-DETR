@@ -35,7 +35,10 @@ The values are reported in percentage (%).
 
 ## Get Started
 
-环境配置步骤
+pip install -r requirements.txt
+unzip ultralytics.zip
+python train.py
+python val.py
 
 
 ### Installation
