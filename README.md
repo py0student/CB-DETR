@@ -7,11 +7,14 @@
 
 ## Overview of CB-DETR
 
-论文图片
+<img width="2065" height="700" alt="all" src="https://github.com/user-attachments/assets/36db206e-f96e-42ea-ab0a-23bce6f54a89" />
 
 ## Datasets
 
+Visdrone2019:
 [VisDrone/VisDrone数据集](https://github.com/VisDrone/VisDrone-Dataset)：发布了无人机检测和跟踪数据集，包括图像/视频和注释。
+
+TinyPerson:
 
 ## Get Started
 
