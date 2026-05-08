@@ -15,6 +15,7 @@ Visdrone2019:
 [VisDrone/VisDrone数据集](https://github.com/VisDrone/VisDrone-Dataset)：发布了无人机检测和跟踪数据集，包括图像/视频和注释。
 
 TinyPerson:
+[TinyBenchmark (WACV 2020)](https://github.com/sxy1122/TinyBenchmark): Scale Match for Tiny Person Detection (WACV 2020).
 
 ## Get Started
 
