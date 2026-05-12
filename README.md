@@ -1,6 +1,3 @@
-# 待补充
-# CB-DETR
-
 > **CB-DETR for Small Object Detection in UAV Aerial Imagery**
 > 
 > 论文地址
@@ -41,8 +38,3 @@ unzip ultralytics.zip
 python train.py
 python val.py
 ```
-
-
-### Installation
-
-安装说明
